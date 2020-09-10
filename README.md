@@ -1,2 +1,2 @@
 # Hamming Code Error Detection and Correction
-A program for hamming code encoding and error detection and correction for any n bit binary word.
+A program for Hamming Code Encoding and Single-bit Error Detection and Correction for any n bit binary word.
